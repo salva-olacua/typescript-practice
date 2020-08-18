@@ -1,4 +1,5 @@
 # typescript-practice
 fibonacci algorithm using memorization technique, made with typescript.
-run with node:
+
+# Run with node:
  'node fibonacci.js'
