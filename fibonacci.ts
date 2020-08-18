@@ -10,4 +10,4 @@ function fibonacciWithMemorization(number: number, memo: number[]): number{
 
 const fibonacci = (number: number): number => fibonacciWithMemorization(number, new Array(number + 1));
 
-console.log(fibonacci(10));
+console.log( 'fibonacci( 10 ): ' + fibonacci(10) );
